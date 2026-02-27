@@ -2989,6 +2989,7 @@ chinese.skp_goal_1 = "招募有价值的人员"
 chinese.skp_goal_2 = "在重收寻找晶体"
 chinese.skp_goal_3 = "找到黑箱"
 chinese.skp_goal_4 = "找到传送门返回"
+
 chinese.skp_goal_5 = "重新构建传送门"
 chinese.goal_waiting_leave = "等待撤离"
 --Focus

@@ -37,9 +37,9 @@
 russian = {}
 russian.LangName = "Русский"
 russian.unknown = "Неизвестно"
-russian.waiting_for_players = "Ожидание игроков..."
-russian.waiting_for_players_pt2 = "Ожидание игроков..."
-russian.waiting_for_players_pt3 = " Ожидание игроков..."
+russian.waiting_for_players = "Waiting for players..."
+russian.waiting_for_players_pt2 = "Waiting for players..."
+russian.waiting_for_players_pt3 = "Waiting for players..."
 russian.play = "Играть"
 russian.resume = "Продолжить"
 russian.settings = "Настройки"
